@@ -25,4 +25,10 @@
 		<TopSpeed>130.49 mph</TopSpeed>
 		<price>38160</price>
 	</car>
+	<car>
+		<name>Ford Siesta</name>
+		<TopSpeed>130 mph</TopSpeed>
+		<price>14260</price>
+	</car>
+	
 </cars>
