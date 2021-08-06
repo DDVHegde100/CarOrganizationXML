@@ -28,4 +28,11 @@
     		</TopSpeed>
 		<price>149995</price>
 	</car>
+	<car>
+		<name>Ford Bronco</name>
+		<TopSpeed>
+    		130.49 mph
+    		</TopSpeed>
+		<price>38160</price>
+	</car>
 </cars>
